@@ -7,4 +7,4 @@ This project analyzes the Manhattan vacation rental market to provide guidance o
 *   Which neighborhoods and property sizes (i.e., number of bedrooms) are most attractive for vacation rentals?
 *   How much money did these listings generate?
 
-[Link] (https://www.youtube.com/watch?v=uvTcd-VlM64)
+[link here] (https://docs.google.com/spreadsheets/d/1HCimA1wlpcQ7cJ68pGE19umsjIXIIB5Q0v39wjqaqw8/edit?usp=sharing)
