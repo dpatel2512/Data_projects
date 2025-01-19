@@ -1,3 +1,5 @@
+#business analtics project
+
 Processed and analyze raw data of an e-commerce company to ensure the data cleaning and provide data-driven decisions insights 
 
 - conversion funnel
