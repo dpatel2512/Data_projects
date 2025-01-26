@@ -22,6 +22,8 @@ The dataset i have used for this project were order and users table
 
 <img width="1284" alt="Screenshot 2025-01-25 at 8 15 38 PM" src="https://github.com/user-attachments/assets/bc7cdeb1-0914-4f5d-be2e-07e15f1e30d7" />
 
+[Tableau Link](https://public.tableau.com/views/zomatofinal_17361052016640/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
