@@ -7,8 +7,6 @@
 | 3 | Superstore Analysis | this project provides what are probelms facing by superstore by reviewing the store’s operations and increase its profitability to avoid bankruptcy. |[Superstore link](https://github.com/dpatel2512/projects_TripleTen/tree/main/superstore_analysis#superstore-analysis)|
 | 4 | Zomato analysis|This project was created to show an in-depth analysis on the customers of the food delivery service Zomato. This project will focus on analyzing customer segmentation based on their purchase behavior. |[Zomato link](https://github.com/dpatel2512/projects_TripleTen/blob/main/Zomato_analysis/Readme.md)|
 | 5 | Zuber Database | find patterns to understand passenger preferences and the impact of external factors on rides. Test a hypothesis about the impact of weather on ride frequency. |[Zuber_database link](https://github.com/dpatel2512/projects_TripleTen/tree/main/Zuber_database)|
-| 6 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
-| 7 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
 
 
 
