@@ -45,15 +45,15 @@ The database consists of the following tables:
 
 1. Calculate the number of taxi rides for each taxi company on November 15-16, 2017. Name the result `trips_amount` and display it with `company_name`, sorted by `trips_amount` in descending order.
    
-2. Calculate the number of rides for taxi companies with names containing "Yellow" or "Blue" from November 1-7, 2017. Name the result `trips_amount` and group by `company_name`.
+2. Calculate the number of rides for taxi companies with names containing "Yellow" or "Blue" from November 1-7, 2017. Name the result `trips_amount` and group the results by `company_name` field.
 
-3. For November 2017, find the number of rides for "Flash Cab" and "Taxi Affiliation Services". Name the result `trips_amount` and group the rest of the companies as "Other", sorted by `trips_amount` in descending order.
+3. For November 2017, find the number of rides for "Flash Cab" and "Taxi Affiliation Services". Find the number of rides for these two companies and name the resulting variable `trips_amount` and group the rest of the companies as "Other", Group the data by taxi company names. sort the results by `trips_amount` in descending order.
 
 ## Step 2: Analyze Ride Duration on Rainy Saturdays
 
 1. Retrieve the neighborhood identifiers for O'Hare and the Loop from the `neighborhoods` table.
 
-2. For each hour, get the weather condition from the `weather_records` table. Use a `CASE` statement to categorize conditions as "Bad" (rain or storm) or "Good". Include the `date`, `hour` (ts), and the weather condition field `weather_conditions`.
+2. For each hour, get the weather condition from the `weather_records` table. break statement into two categorize conditions as "Bad" if description contains(rain or storm), and "Good" for others. Include the `date`, `hour` (ts), and the weather condition field `weather_conditions`.
 
-3. Retrieve all Saturday rides from the Loop (neighborhood_id: 50) to O'Hare (neighborhood_id: 63) and their weather conditions. Calculate the ride durations and exclude any rides without weather data.
+3. Retrieve all Saturday rides from the Loop (`neighborhood_id:` 50) to O'Hare (`neighborhood_id:` 63) and their weather conditions. Calculate the ride durations and exclude any rides without weather data.
 
