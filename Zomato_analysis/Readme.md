@@ -1,6 +1,6 @@
 # Zomato analysis
 
-This project was my capstone project for the TripleTen Business Intelligence Analytics program. it was solo project tpo showcase how to use analytical tools to project the raw data into meaningful insights.
+This project was my capstone project for the TripleTen Business Intelligence Analytics program. it was solo project to showcase how to use analytical tools to project the raw data into meaningful insights.
 
 ## overview 
 
