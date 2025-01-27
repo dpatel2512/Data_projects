@@ -57,3 +57,5 @@ The database consists of the following tables:
 
 3. Retrieve all Saturday rides from the Loop (`neighborhood_id:` 50) to O'Hare (`neighborhood_id:` 63) and their weather conditions. Calculate the ride durations and exclude any rides without weather data.
 
+### [Sql Queries](https://github.com/dpatel2512/projects_TripleTen/blob/main/Zuber_database/Zuber%20Database.pdf)
+
