@@ -23,3 +23,5 @@ A Google Doc with a template
 * `Recommendations`
 * `Visualizations`
 * `Conclusion`
+
+[Fresh_beats](https://github.com/dpatel2512/projects_TripleTen/blob/main/fresh_beats/Fresh%20Beats%20Project.pdf)
