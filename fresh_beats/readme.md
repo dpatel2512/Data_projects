@@ -4,11 +4,6 @@
 
 Fresh Beats is a dynamic online platform revolutionizing the music industry by providing a streaming service for music enthusiasts and serving as a catalyst for up-and-coming musicians to gain visibility. Fresh Beats generates revenue through partnerships with musical artists who pay for promotional services to reach a broader audience.
 
-## Description:
-
-* 3 pages of Google Doc
-* Includes key findings, recommendations, and Charts.
-
 ## Data 
 
 The data was one Google spreadsheet file:
@@ -18,3 +13,13 @@ The data was one Google spreadsheet file:
 * `genre`: specifies a string of data for the type of genre that was listened to
 * `number_of_users`: The SUM of all users for each dimension
 * `tracks_listened`: The SUM of all music plays for each dimension
+
+## Description
+
+A Google Doc with a template 
+
+* `Summary`
+* `Insights`
+* `Recommendations`
+* `Visualizations`
+* `Conclusion`
