@@ -8,6 +8,7 @@
 | 4 | Zomato analysis|This project was created to show an in-depth analysis on the customers of the food delivery service Zomato. This project will focus on analyzing customer segmentation based on their purchase behavior. |[Zomato link](https://github.com/dpatel2512/projects_TripleTen/blob/main/Zomato_analysis/Readme.md)|
 | 5 | Zuber Database | Find patterns to understand passenger preferences and the impact of external factors on rides. Test a hypothesis about the impact of weather on ride frequency. |[Zuber_database link](https://github.com/dpatel2512/projects_TripleTen/tree/main/Zuber_database)|
 | 6 | Fresh Beats | Fresh Beats is a dynamic online platform revolutionizing the music industry by providing a streaming service for music enthusiasts and serving as a catalyst for up-and-coming musicians to gain visibility. Fresh Beats generates revenue through partnerships with musical artists who pay for promotional services to reach a broader audience. |[Fresh_beats_link](https://github.com/dpatel2512/projects_TripleTen/blob/main/fresh_beats/readme.md)|
+| 7 | Student spending analysis | To explore and analyze the spending patterns of college students, identify key trends, and provide data-driven recommendations for financial management. |[Student_spending_analysis](https://github.com/dpatel2512/projects_TripleTen/tree/main/student_spending)|
 
 
 
