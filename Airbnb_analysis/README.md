@@ -27,5 +27,5 @@ Tech Used: Pivot tables, line and bar combo charts for trend comparison.
 * Power Query for data cleaning, handling missing values, and transforming raw data into a usable format.
 * Charts (Bar, Pie, Line) for visualizing trends in reviews, occupancy rates, and revenue, making it easier to interpret large datasets and provide actionable business insights.
 
-[Link](https://docs.google.com/spreadsheets/d/1HCimA1wlpcQ7cJ68pGE19umsjIXIIB5Q0v39wjqaqw8/edit?usp=sharing)
+[Analysis Link](https://docs.google.com/spreadsheets/d/1HCimA1wlpcQ7cJ68pGE19umsjIXIIB5Q0v39wjqaqw8/edit?usp=sharing)
 
