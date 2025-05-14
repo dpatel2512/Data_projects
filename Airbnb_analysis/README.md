@@ -4,26 +4,26 @@ This project analyzes the Manhattan vacation rental market to provide guidance o
 
 1. Top 10 Neighborhoods by Review Count:
 
-*Key Insight: The Lower East Side leads the list with the highest number of reviews (6,242), closely followed by Hell’s Kitchen (5,506) and Harlem (5,157). These neighborhoods are crucial hotspots for Airbnb activity.
+* Key Insight: The Lower East Side leads the list with the highest number of reviews (6,242), closely followed by Hell’s Kitchen (5,506) and Harlem (5,157). These neighborhoods are crucial hotspots for Airbnb activity.
 2. Top 10 Neighborhoods with One-Bedroom Homes:
 
-*Key Insight: The Lower East Side again tops the list with 196 one-bedroom homes, which is 24.4% of the total, while Harlem has 125 such listings (15.6%).
+* Key Insight: The Lower East Side again tops the list with 196 one-bedroom homes, which is 24.4% of the total, while Harlem has 125 such listings (15.6%).
 
 3. Occupancy by Day of the Week:
 
-*Key Insight: Friday has the highest average occupancy rate (0.86), followed by Saturday (0.86). Occupancy is lowest on Monday (0.80), indicating strong demand for weekends.
+* Key Insight: Friday has the highest average occupancy rate (0.86), followed by Saturday (0.86). Occupancy is lowest on Monday (0.80), indicating strong demand for weekends.
 Tech Used: Pivot tables, bar charts for comparative occupancy.
 4. Annual Revenue vs. Average Occupancy by Neighborhood:
 
-*Key Insight: Chelsea has the highest annual revenue ($80,834) while maintaining a high occupancy rate (90.6%). Conversely, West Village has lower revenue despite a slightly higher occupancy rate.
+* Key Insight: Chelsea has the highest annual revenue ($80,834) while maintaining a high occupancy rate (90.6%). Conversely, West Village has lower revenue despite a slightly higher occupancy rate.
 Tech Used: Pivot tables, line and bar combo charts for trend comparison.
 
 Excel Skills Utilized:
 
-*Pivot Tables were used to summarize and aggregate data across various neighborhoods, including review counts, bedroom types, and occupancy.
-*Lookup Functions for analyzing neighborhood-wise revenue, occupancy, and bedroom distribution.
-*Power Query for data cleaning, handling missing values, and transforming raw data into a usable format.
-*Charts (Bar, Pie, Line) for visualizing trends in reviews, occupancy rates, and revenue, making it easier to interpret large datasets and provide actionable business insights.
+* Pivot Tables were used to summarize and aggregate data across various neighborhoods, including review counts, bedroom types, and occupancy.
+* Lookup Functions for analyzing neighborhood-wise revenue, occupancy, and bedroom distribution.
+* Power Query for data cleaning, handling missing values, and transforming raw data into a usable format.
+* Charts (Bar, Pie, Line) for visualizing trends in reviews, occupancy rates, and revenue, making it easier to interpret large datasets and provide actionable business insights.
 
 [Link](https://docs.google.com/spreadsheets/d/1HCimA1wlpcQ7cJ68pGE19umsjIXIIB5Q0v39wjqaqw8/edit?usp=sharing)
 
