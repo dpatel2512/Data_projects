@@ -1,4 +1,4 @@
-# Business Analtics Project
+# Ecommerce Analysis
 
 ► Objective 
 
