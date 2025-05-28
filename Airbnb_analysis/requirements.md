@@ -5,8 +5,9 @@
 # Objective: Ensure dataset integrity and relevance through systematic cleaning and filtering.
 
 * Initial Exploration:
-** Review the NYC Airbnb dataset and its accompanying data dictionary.
-** Identify data quality issues such as inconsistent formatting, missing values, or irrelevant records.
+
+* Review the NYC Airbnb dataset and its accompanying data dictionary.
+* Identify data quality issues such as inconsistent formatting, missing values, or irrelevant records.
 Data Cleaning Actions:
 Normalize neighborhood names: standardize text case, remove extra spaces, and unify label variations.
 Filter out irrelevant listings:
