@@ -6,7 +6,7 @@ This project centers on cohort analysis for an e-commerce platform. The core obj
 
 ---
 
-## 📁 Repository Structure
+## 📁 Analysis file
 
 [E-Commerce Business](https://docs.google.com/spreadsheets/d/1p1xVITLMesCs7pC-9nCTq8OvBMJnwkY57m0tFNTSx2g/edit?usp=sharing)
 
