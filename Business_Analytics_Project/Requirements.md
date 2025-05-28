@@ -71,6 +71,4 @@ This project is structured into four key analytical modules, designed to extract
 - Quantified retention decay and user lifecycle trends.
 - Enabled data-informed decision-making for product and marketing teams.
 
----
 
-> For questions or collaboration inquiries, feel free to connect via Issues or Pull Requests.
