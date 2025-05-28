@@ -12,7 +12,7 @@ This project presents a comprehensive data analysis of an e-commerce SuperStore 
 
 📎 **Data Source**: `SuperStore.xls` (includes `Orders` and `Returns` sheets)
 
-🌐 **Tableau Public Dashboard**: [View Project](#) *(https://public.tableau.com/app/profile/dhruv.patel3653/viz/superstorestorytelling_17361154385740/Dashboard1?publish=yes)*
+🌐 **Tableau Public Dashboard**: [https://public.tableau.com/app/profile/dhruv.patel3653/viz/superstorestorytelling_17361154385740/Dashboard1?publish=yes](#)
 
 ---
 
