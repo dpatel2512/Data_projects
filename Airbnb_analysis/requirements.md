@@ -1,71 +1,106 @@
-🧹 Part 1: Data Cleaning and Preparation
+# 🏙️ NYC Airbnb Data Analysis Project
 
-Tasks:
-Review dataset and accompanying data dictionary.
-Identify inconsistencies and anomalies in the data.
-Clean and standardize:
-Neighborhood labels: Correct inconsistent cases, remove trailing spaces.
-Bedroom field: Convert missing/empty bedroom entries to 0 for studio apartments.
-Filter data:
-Exclude listings with no reviews in the past 12 months.
-Exclude long-term rentals (minimum stay > 7 days).
-Deliverables:
-cleaning_steps_log.xlsx: All transformations documented with versions and justifications.
-Cleaned dataset ready for analysis.
-📊 Part 2: Aggregations and Pivot Table Analysis
+## Overview
 
-Tasks:
-Standardize studio apartments (bedrooms = 0).
-Create a new column clean_bedroom_count.
-Convert availability status into binary format:
-0 = Not Available, 1 = Available.
-Build pivot tables for:
-Occupancy Rate by Neighborhood
-Top 10 Vacation Rental Areas
-Popular Property Sizes
-Deliverables:
-Pivot tables embedded in nyc_airbnb_analysis.xlsx.
-📈 Part 3: Data Visualization
+This project conducts a comprehensive analysis of the NYC Airbnb dataset, focusing on data cleaning, transformation, aggregation, and visualization to uncover rental trends and occupancy insights. The final deliverable is a structured Excel spreadsheet and an executive summary for business stakeholders.
 
-Tasks:
-Generate bar charts to illustrate:
-Occupancy rates by day of the week
-Top neighborhoods for rentals
-Most common property types and sizes
-Use visual storytelling to highlight:
-High-traffic rental days
-Neighborhood-specific preferences
-Deliverables:
-Charts saved in /visualizations
-Visuals embedded in final spreadsheet and presentation materials
-📄 Part 4: Documentation & Presentation
+---
 
-Tasks:
-Log all cleaning steps with version history and rationale.
-Define and apply formatting guidelines:
-Consistent font, color codes, table borders
-Hide irrelevant columns
-Executive summary with key insights
-Table of Contents with internal navigation for the spreadsheet
-Enable shareable, read-only access to stakeholders
-Deliverables:
-nyc_airbnb_analysis.xlsx: Finalized spreadsheet with TOC, visuals, and summaries
-README.md: This documentation
-Clear permissions for access & review
-🧠 Assumptions & Notes
+## 📁 Project Structure
 
-Reviews are used as a proxy for rental activity.
-Luxury listings outliers are excluded to reduce skew.
-Minimum stay threshold set at 7 days for filtering long-term rentals.
-✅ Completion Criteria
+- `Data_Cleaning_Log`: Tab documenting all cleaning steps and version updates
+- `Pivot_Analysis`: Aggregation and trend identification via pivot tables
+- `Visualizations`: Bar charts and graphs for key insights
+- `Summary`: Executive summary, assumptions, and table of contents
+- `Final_Spreadsheet.xlsx`: Cleaned, styled, and documented workbook
 
-Data integrity validated post-cleaning
-Visualizations align with pivot analysis insights
-Spreadsheet is polished, navigable, and presentation-ready
-All steps and logic traceable via logs and documentation
-📬 Feedback & Contributions
+---
 
-Pull requests and feedback are welcome. For major changes, please open an issue first to discuss potential updates.
+## ✅ Part 1 – Data Cleaning and Preparation
 
+### Objectives:
+- Explore raw NYC Airbnb dataset and review associated data dictionary.
+- Identify and resolve data inconsistencies and cleanliness issues.
+
+### Tasks:
+- Standardize **neighborhood labels**:
+  - Fix inconsistent capitalization (e.g., `brooklyn` → `Brooklyn`)
+  - Trim leading/trailing whitespaces
+
+- **Filter irrelevant listings**:
+  - Exclude listings with **no reviews in the past 12 months**
+  - Remove **long-term rentals** (minimum stay > 7 days)
+
+- **Document changes** in a dedicated cleaning log tab:
+  - Timestamp each cleaning operation
+  - Record assumptions and data dictionary updates
+
+---
+
+## 📊 Part 2 – Aggregations and Pivot Table Analysis
+
+### Objectives:
+Generate summary metrics and trend insights from cleaned data.
+
+### Tasks:
+- Create pivot tables for:
+  - **Occupancy rates**
+  - **Top 10 neighborhoods** for vacation rentals
+  - **Popular property sizes** by bedroom count
+
+- Standardize bedroom field:
+  - Replace blank/NaN with `0` for studio apartments
+  - Create new column: `clean_bedroom_count`
+
+- Calculate **average occupancy rate**:
+  - Convert availability to binary:
+    - `1` = available
+    - `0` = not available
+
+---
+
+## 📈 Part 3 – Data Visualization
+
+### Objectives:
+Highlight key patterns in rental activity and guest preferences.
+
+### Visuals:
+- **Bar charts** of occupancy by day of the week
+- **Trend charts** for:
+  - Most active rental days
+  - Property preferences by neighborhood
+
+---
+
+## 🧾 Part 4 – Documentation and Presentation
+
+### Deliverables:
+- **Data Cleaning Tab**: Logs all cleaning actions with version history
+- **Executive Summary**: Key insights, business implications, and assumptions
+- **Formatted Spreadsheet**:
+  - Consistent font, color scheme, borders
+  - Hidden helper columns for clarity
+- **Table of Contents**: Internal links for navigation within spreadsheet
+
+### Assumptions:
+- **Luxury listings** excluded as outliers
+- **Review count** used as proxy for booking activity
+- **Studio units** defined as `0` bedrooms
+
+---
+
+## 📤 Sharing Guidelines
+
+- Share final spreadsheet with **view-only** or **comment** access for reviewers.
+- Use a shared drive or cloud service with clear naming conventions:
+  - `NYC_Airbnb_Analysis_vFinal.xlsx`
+
+---
+
+## 🧠 Summary
+
+This project empowers stakeholders to make data-driven decisions about NYC short-term rental trends, providing a clean, interactive, and insightful view of Airbnb performance across neighborhoods and property types.
+
+---
 
 
