@@ -20,7 +20,7 @@ The dataset i have used for this project were order and users table
 
 ## Dashboard
 
-![Dashboard](Zomato_analysis/Dashboard%2010-2.png)
+![Dashboard Screenshot](Zomato_analysis/Dashboard%2010-2.png)
 
 [Tableau Link](https://public.tableau.com/views/zomatofinal_17361052016640/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
