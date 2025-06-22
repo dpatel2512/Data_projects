@@ -50,6 +50,16 @@ Weekend bookings dominate, with **Friday and Saturday peaking at a 0.86 occupanc
 - **Visualization** through Bar, Pie, and Line charts for pattern recognition and storytelling.
 
 ---
+## Process
+
+- Data Preparation: Explored, organized, and cleaned the data using Filtering techniques. Key functions such as PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were used.
+- Neighborhood Analysis: Identified the top-10 performing neighborhoods that should be considered for potential investment based on review frequency (Pivot Table).
+- Property Size Analysis: Determined the optimal property sizes for each neighborhood (Pivot Table).
+- Occupancy Analysis: Calculated the average occupancy rates for each listing (Pivot Table) and the average occupancy rates for each day of the week (Pivot Table).
+- Revenue Analysis: Calculated the estimated annual revenue for the most attractive listing (Pivot Table).
+- Data Visualization: Created visualizations to illustrate the occupancy rates by day of the week (Bar Chart) and top-10 performing neighborhoods (Bar Chart).
+- Formatting and Organization: Organized and formatted the spreadsheet with consistent font styles, colors, borders, and hidden columns for clarity throughout the report.
+- Documentation: Created organizational sheets like an executive summary, table of contents, assumptions log, and change log.
 
 ## 📈 Project Objective
 
