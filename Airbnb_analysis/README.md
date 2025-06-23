@@ -23,7 +23,7 @@ The Lower East Side also leads in one-bedroom inventory with **196 listings (24.
 ## 📆 Occupancy Trends by Day of the Week
 
 **Insight:**  
-Weekend bookings dominate, with **Friday and Saturday peaking at a 0.86 occupancy rate**. In contrast, **Monday drops to 0.80**, suggesting that demand is highly weekend-centric.
+Weekend bookings dominate, with **Friday and Saturday peaking at a 0.86 occupancy rate**. In contrast, **Monday drops to 0.78**, suggesting that demand is highly weekend-centric.
 
 **Tools Used:**  
 - Pivot Tables  
