@@ -34,7 +34,7 @@ Weekend bookings dominate, with **Friday and Saturday peaking at a 0.86 occupanc
 ## 💰 Annual Revenue vs. Average Occupancy by Neighborhood
 
 **Insight:**  
-**Chelsea** delivers the highest annual revenue at **$80,834**, maintaining a solid **90.6% occupancy**. Interestingly, **West Village** lags in revenue despite a comparable occupancy rate—indicating pricing strategy or listing volume differences.
+**Midtown and Nolita** lead in annual revenue despite relatively moderate occupancy rates, highlighting the impact of premium pricing. In contrast, **East Harlem and Harlem** exhibit low revenue performance despite decent occupancy, indicating pricing limitations.
 
 **Tools Used:**  
 - Pivot Tables  
@@ -71,5 +71,5 @@ To guide real estate investors and short-term rental operators toward:
 
 ---
 
-> **Pro Tip:** Focus your investments on neighborhoods like the Lower East Side and Chelsea, which consistently outperform in both occupancy and revenue metrics.
+> **Pro Tip:** Prioritize investments in Midtown and Nolita, where high annual revenues are driven by strong pricing power—even with only moderate occupancy rates. Avoid low-performing areas like East Harlem and Harlem, where lower prices limit revenue potential despite decent occupancy.
 
